@@ -1,48 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", MNC
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
+#EXTINF:0 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="Local Channel", TVRI
+rtp://@239.1.1.37:8196
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", ANTV
 http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", SCTV
-http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", INDOSIAR HD
-http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA, NET TV HD
-http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", RTV HD
-http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
+#EXTINF:0 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="Local Channel", Indosiar
+rtp://@239.1.1.17:8076
+#EXTINF:0 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="HD Channel", TransTV HD
+rtp://@239.1.1.194:9138
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", MNC
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:0 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="HD Channel", SCTV HD
+rtp://@239.1.2.58:8324
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TRANS 7 HD
-http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TRANS TV HD
-http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
+#EXTINF:0 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="HD Channel", Trans7 HD
+rtp://@239.1.1.222:9306
+#EXTINF:0 tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="Local Channel", RTV
+rtp://@239.1.1.69:8388
 
 #EXTINF:0 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="HD Channel", Net TV HD
 rtp://@239.1.1.158:8922
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="HD Channel", TransTV HD
-rtp://@239.1.1.194:9138
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="HD Channel", Trans7 HD
-rtp://@239.1.1.222:9306
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="HD Channel", CNN Indonesia HD
-rtp://@239.1.1.180:9054
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="HD Channel", SCTV HD
-rtp://@239.1.2.58:8324
 #EXTINF:0 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="HD Channel", METRO TV HD
 rtp://@239.1.2.2:7986
-
+#EXTINF:0 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="HD Channel", CNN Indonesia HD
+rtp://@239.1.1.180:9054
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", INEWS
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
