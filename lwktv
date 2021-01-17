@@ -1,373 +1,349 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="Local Channel", TVRI
-rtp://@239.1.1.37:8196
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", ANTV
-http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="Local Channel", Indosiar
-rtp://@239.1.1.17:8076
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="HD Channel", TransTV HD
-rtp://@239.1.1.194:9138
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", MNC
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="HD Channel", SCTV HD
-rtp://@239.1.2.58:8324
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="HD Channel", Trans7 HD
-rtp://@239.1.1.222:9306
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="Local Channel", RTV
-rtp://@239.1.1.69:8388
-
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="HD Channel", Net TV HD
-rtp://@239.1.1.158:8922
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="HD Channel", METRO TV HD
-rtp://@239.1.2.2:7986
-#EXTINF:0 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="HD Channel", CNN Indonesia HD
-rtp://@239.1.1.180:9054
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVONE
-http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", METRO TV
-http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", KOMPAS TV
-http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", DAAI TV HD
-http://103.130.186.138:8800/oxygenplay/daaitv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVRI
-http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVRI NASIONAL
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVRI DKI JAKARTA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVRI BUDAYA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", BERITASATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", JAKTV
-http://103.130.186.138:8800/oxygenplay/jaktv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", Jawa Pos TV
-http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", CNN Indonesia HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", CNN Indonesia HD Backup
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", Jakarta Globe News
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", CNBC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", CNBC HD
-http://103.130.186.138:8800/oxygenplay/cnbc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", CNA HD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", RRI Net
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", Qur'an TV
-http://103.130.186.138:8800/oxygenplay/qurantv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", Rodja TV
-http://103.130.186.138:8800/oxygenplay/rodjatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", Rodja TV Backup
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", AHSAN TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", SALAM TV
-http://103.130.186.138:8800/oxygenplay/salamtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", AL Bahjah
-https://edge.siar.us/albahjahtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", Tawaf TV
-http://103.130.186.138:8800/oxygenplay/tawaftv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", Muadz TV
-http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1655663467.m3u8?Stream-ID-PPIIPTV-MuadztvEdhorizki-master.js
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", Surau TV
-http://119.235.249.58:1935/surautv/live/chunklist_w388392983.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", Iqraa TV
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", Wesal TV
-http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", Paytren TV
-http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", REFORMED 21 (KRISTEN)
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", U Channel (KRISTEN)
-http://103.130.186.138:8800/oxygenplay/uchannel/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="RELIGI", LIFE (KRISTEN)
-https://anevia115.mncnow.id/live/eds/Life/sa_hls/Life-avc1_2499968=8-mp4a_98800_ind=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KIDS", ANIMAX
-https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KIDS", ANIMAX ID
-http://210.210.155.35/dr9445/h/h144/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KIDS", ANIPLUS ID
-http://210.210.155.35:80/dr9445/h/h02/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KIDS", BTV KAKU
-http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KIDS", Disney XD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KIDS", Cartoon_Club
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KIDS", Cartoon Network
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KIDS", Gongmax HD
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KIDS", EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KIDS", Rooster Teeth TV
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KIDS", TCT KIDS
-http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KIDS", TVO KIDS
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", AXN ID
-http://210.210.155.35/uq2663/h/h141/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES",  Blue Ant Entertainment
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES",  Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", FOX HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", Fox Premium Movies
-https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", Fox Thai
-https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES",HBO 1
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES",HBO 2
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES",HBO 3
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO HD
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO Hits
-https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO Redby
-https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", Warner TV HD
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", SINEMA INDONESIA
-http://210.210.155.35:80/x6bnqe/s/s71/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", CELESTIAL MOVIES 2
-http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", CINEMA WORLD
-http://210.210.155.35:80/uq2663/h/h04/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HITS
-http://210.210.155.35:80/uq2663/h/h37/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", K+
-http://210.210.155.35:80/uq2663/h/h08/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", SONY HD
-http://103.214.202.218:8081/live/sony-40/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", SONY GEM
-http://210.210.155.35:80/uq2663/h/h19/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", THRILL
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", ZEE BIOSKOP
-http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KNOWLEDGE", National Geograpic HD
-http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KNOWLEDGE", National Geo Wild HD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="KNOWLEDGE", Animal Planet HD
-http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", FOX HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", Fox Premium Movies
-https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", Fox Thai
-https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO 1
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO 2
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO 3
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO HD
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO Hits
-https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO Redby
-https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", Warner TV HD
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", SONY HD
-http://103.214.202.218:8081/live/sony-40/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", beIN Sports 1 Asia
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", beIN Sports 2 Asia
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", FOX SPORTS 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", FOX SPORTS 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", RTM SPORT
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", TVRI SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", EPL HD
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", EPL
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", MOTO GP
-http://183.182.100.184/live/pptvthai/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", SERI A ITALIA
-http://217.174.225.146/hls/ch004_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", UFC 1
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", UFC 2
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", NBA HD
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", True Tennis HD
-https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", Golf Channel HD
-https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", BT Sport1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", BT Sport2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", Sport TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", Sport TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", Sport TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", Sport TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", Sport TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", True Premier Football 1 TH
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", True Premier Football 2 TH
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", True Premier Football 3 TH
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", True Premier Football 4 TH
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", True Premier Football 5 TH
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", TrueSport HD 1
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", TrueSport HD 2
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", TrueSport HD 3
-https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",TransTV
+https://newbonetv.xyz:443/m3u/vidio-transtv-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/744
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Trans7
+https://newbonetv.xyz:443/m3u/vidio-trans7-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/745
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",RCTI
+https://newbonetv.xyz:443/m3u/vidio-rcti-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/746
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",MNC TV
+https://newbonetv.xyz:443/m3u/vidio-mnc-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/747
+#EXTINF:0 tvg-id="gtv.il" group-title="UseetvAll",GTV'
+https://newbonetv.xyz:443/m3u/vidio-gtv-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="NETtv.svn" group-title="UseetvAll",NET TV
+https://newbonetv.xyz:443/m3u/vidio-net-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/749
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SCTV
+https://newbonetv.xyz:443/m3u/vidio-sctv-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/750
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Indosiar
+https://newbonetv.xyz:443/m3u/vidio-indosiar-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/751
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",JTV
+http://bonev2.xyz:80/playlist/usee-jtv-new-bonetv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",MAGNA
+http://bonev2.xyz:80/playlist/plus-magna-new-bonetv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",RTV
+http://bonev2.xyz:80/playlist/vidio-rtv-new-bonetv.m3u8
+#EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",Metro TV
+https://newbonetv.xyz:443/m3u/vidio-metrotv-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/752
+#EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",KOMPASTV
+https://newbonetv.xyz:443/m3u/vidio-kompastv-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",CNBC INDONESIA 
+https://newbonetv.xyz:443/m3u/usee-cnbcindonesia-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",CNN INDONESIA 
+https://newbonetv.xyz:443/m3u/usee-cnnindonesia-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Berita Satu
+https://newbonetv.xyz:443/m3u/vidio-beritasatu-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/754
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Jak TV
+https://newbonetv.xyz:443/m3u/usee-jaktv-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/757
+http://bonetv.site:55555/bone/streaming/758
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",MYTV
+http://bonev2.xyz:80/playlist/vidio-mytv-new-bonetv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DAAI TV
+https://newbonetv.xyz:443/m3u/usee-daaitv-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/759
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",ANTARA
+https://newbonetv.xyz:443/m3u/usee-antara-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/763
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",RRI NET
+https://newbonetv.xyz:443/m3u/usee-rrinet-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/769
+http://bonetv.site:55555/bone/streaming/770
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",HBO Stream 
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="UseetvAll",HBO
+https://newbonetv.xyz:443/m3u/Go-hbo-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/774
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="UseetvAll",HBO Signature
+https://newbonetv.xyz/m3u/Go-sig-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/775
+#EXTINF:0 tvg-id="HBOHits.in" group-title="UseetvAll",HBO Hits
+https://newbonetv.xyz/m3u/Go-hits-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/776
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="UseetvAll",HBO Family
+https://newbonetv.xyz/m3u/Go-fam-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/777
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Cinemax by HBO
+https://newbonetv.xyz/m3u/Go-max-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/778
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",RED by HBO
+https://newbonetv.xyz/m3u/Go-red-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/779
+#EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",FOX
+http://bonetv.site:-9980/bone/streaming/780
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",FOX Movies Premium
+http://bonetv.site:55555/bone/streaming/781
+#EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",FOX Crime
+http://bonetv.site:55555/bone/streaming/784
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Fox action movies
+http://bonetv.site:55555/bone/streaming/6
+#EXTINF:0 tvg-id="fox-life" group-title="UseetvAll",Fox Life
+http://bonetv.site:55555/bone/streaming/5
+#EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",Fox
+http://bonetv.site:55555/bone/streaming/3
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SINEMA INDONESIA 
+http://bonev2.xyz:80/oxygen.id/sinemaindonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SINEMA INDONESIA X
+http://bonev2.xyz:80/oxygen.id/sinemaindonesia-x.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",CELESTIAL CLASSIC MOVIE 
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",CELESTIAL MOVIE
+https://newbonetv.xyz:443/m3u/usee-celestialmovie-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="TVN.pl" group-title="UseetvAll",TvN
+https://newbonetv.xyz:443/m3u/usee-tvn-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/786
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",TvN Movies
+https://newbonetv.xyz:443/m3u/usee-tvnmovies-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/787
+#EXTINF:0 tvg-id="AXN.bg" group-title="UseetvAll",AXN
+https://newbonetv.xyz:443/m3u/usee-axn-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/788
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Galaxy Premium
+https://newbonetv.xyz:443/m3u/usee-galaxypremium-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="galaxy" group-title="UseetvAll",Galaxy
+https://newbonetv.xyz:443/m3u/usee-galaxy-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/801
+http://bonetv.site:55555/bone/streaming/790
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Drama
+https://newbonetv.xyz:443/m3u/usee-cdrama-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/791
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Zee Bioskop
+https://newbonetv.xyz:443/m3u/usee-zbioskop-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/792
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Flik
+https://newbonetv.xyz:443/m3u/usee-flik-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/793
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",IMC
+https://newbonetv.xyz:443/m3u/usee-imc-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/794
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Cinema World
+https://newbonetv.xyz:443/m3u/usee-cinemaworld-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/795
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Thrill
+https://newbonetv.xyz:443/m3u/usee-thrill-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/799
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="UseetvAll",Warner TV
+https://newbonetv.xyz:443/m3u/usee-warner-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/800
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Chinese Drama
+https://newbonetv.xyz:443/m3u/usee-chinesedrama-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/802
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Bioskop Indonesia
+https://newbonetv.xyz:443/m3u/usee-bioskopindonesia-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/807
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",BlueAnt Entertainmrnt
+https://newbonetv.xyz:443/m3u/usee-blueant-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/831
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",BlueAnt Extreme
+https://newbonetv.xyz:443/m3u/usee-blueantextreme-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/832
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",K Plus
+https://newbonetv.xyz:443/m3u/usee-kplus-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/834
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",WakuWaku
+https://newbonetv.xyz:443/m3u/usee-wakuwaku-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/835
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SGEM
+https://newbonetv.xyz:443/m3u/usee-sgem-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/836
+#EXTINF:0 tvg-id="Kix.uk" group-title="UseetvAll",KIX
+https://newbonetv.xyz:443/m3u/usee-kix-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/837
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SOne
+https://newbonetv.xyz:443/m3u/usee-sone-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/838
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Dunia Lain
+https://newbonetv.xyz:443/m3u/usee-dunialain-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/839
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",KBSWorld
+https://newbonetv.xyz:443/m3u/usee-kbsworld-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/840
+#EXTINF:0 tvg-id="tv5monde" group-title="UseetvAll",TV5Monde
+https://newbonetv.xyz:443/m3u/usee-tv5monde-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/841
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",ElJohn
+https://newbonetv.xyz:443/m3u/usee-eljohn-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",lifetime
+https://newbonetv.xyz:443/m3u/usee-lifetime-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/842
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Horee
+https://newbonetv.xyz:443/m3u/usee-horee-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/843
+#EXTINF:0 tvg-id="Animax.de" group-title="UseetvAll",Animax
+https://newbonetv.xyz:443/m3u/usee-animax-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/846
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Aniplus
+https://newbonetv.xyz:443/m3u/usee-aniplus-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/847
+#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="UseetvAll",Baby First
+https://newbonetv.xyz:443/m3u/usee-babyfirst-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/848
+#EXTINF:0 tvg-id="duck" group-title="UseetvAll",Duck Tv
+https://newbonetv.xyz:443/m3u/usee-ducktv-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/849
+#EXTINF:0 tvg-id="cartoon" group-title="UseetvAll",Cartoon Network
+https://newbonetv.xyz:443/m3u/usee-cartoonnetwork-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/850
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Dunia Anak
+https://newbonetv.xyz:443/m3u/usee-duniaanak-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/851
+#EXTINF:0 tvg-id="nick-jr" group-title="UseetvAll",Nick Junior
+https://newbonetv.xyz:443/m3u/usee-nickjr-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/852
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="UseetvAll",Nickelodeon
+https://newbonetv.xyz:443/m3u/usee-nickelodeon-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/853
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Davinci Learn
+https://newbonetv.xyz:443/m3u/usee-davinci-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/854
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Davinci vidio 
+http://bonev2.xyz:80/playlist/vidio-davinci-new-bonetv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Dreamwork
+https://newbonetv.xyz:443/m3u/usee-dreamworks-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/855
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",My Kidz
+https://newbonetv.xyz:443/m3u/usee-mykids-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/8560778210 
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",CCTV4
+https://newbonetv.xyz:443/m3u/usee-cctv4-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="LoveNature.uk" group-title="UseetvAll",Love Nature
+http://bonev2.xyz:80/playlist/vidio-love-nature-new-bonetv.m3u8
+http://bonetv.site:55555/bone/streaming/857
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Smithsonian
+http://bonev2.xyz:80/playlist/vidio-smithsonian-new-bonetv.m3u8
+http://bonetv.site:55555/bone/streaming/858
+#EXTINF:0 tvg-id="discov_rus" group-title="UseetvAll",Discovery Channel
+http://bonev2.xyz:80/playlist/usee-disco-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-discoverychannel-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/859
+#EXTINF:0 tvg-id="history-rus" group-title="UseetvAll",History
+https://newbonetv.xyz:443/m3u/usee-history-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/862
+#EXTINF:0 tvg-id="NatGeoPeople.in" group-title="UseetvAll",Nat Geo People
+https://newbonetv.xyz:443/m3u/usee-natgeopeople-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/863
+#EXTINF:0 tvg-id="natgeowild" group-title="UseetvAll",Nat Geo wild
+https://newbonetv.xyz:443/m3u/usee-natgeowild-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/864
+#EXTINF:0 tvg-id="natgeo" group-title="UseetvAll",National Geographic
+https://newbonetv.xyz:443/m3u/usee-natgeo-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/865
+#EXTINF:0 tvg-id="natgeo" group-title="UseetvAll",HGTV 
+http://bonev2.xyz:80/playlist/usee-hgtv-new-bonetv.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="UseetvAll",AFC
+http://bonev2.xyz:80/playlist/usee-afc-new-bonetv.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="UseetvAll",TV EDUKASI 
+http://bonev2.xyz:80/playlist/vidio-tv-edukasi-new-bonetv.m3u8
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="UseetvAll",Crime Investigation
+https://newbonetv.xyz:443/m3u/usee-crimeinvestigation-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/866
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",CGTN Documentary
+https://newbonetv.xyz:443/m3u/usee-cgtndocumrntary-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/867
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Lingua Channel
+https://newbonetv.xyz:443/m3u/usee-lingua-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Tv Edukasi
+https://newbonetv.xyz:443/m3u/usee-tvedukasi-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/870
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="UseetvAll",MTV LIVE HD
+https://newbonetv.xyz:443/m3u/usee-mtvlive-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/871
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Prambors Tv
+https://newbonetv.xyz:443/m3u/usee-pramborstv-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/872
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Dangdut
+https://newbonetv.xyz:443/m3u/usee-citradangdut-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/875
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Insert
+https://newbonetv.xyz:443/m3u/usee-insert-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",USEE PHOTO
+https://newbonetv.xyz:443/m3u/usee-useephoto-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/894
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",USEE PRIME
+https://newbonetv.xyz:443/m3u/usee-useeprime-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",MNC Shop
+https://newbonetv.xyz:443/m3u/usee-mncshop-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/900
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Eat & Go
+https://newbonetv.xyz:443/m3u/usee-eatgo-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Muslim
+http://bonev2.xyz:80/playlist/vidio-citra-muslim-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-citramuslim-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/940
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Al Quran
+https://newbonetv.xyz:443/m3u/usee-alquran-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/941
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Al Quran'
+http://bonev2.xyz:80/oxygen.id/qurantv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",MUI TV
+https://newbonetv.xyz:443/m3u/usee-muitv-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/944
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",TV9
+https://newbonetv.xyz:443/m3u/usee-tv9-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/945
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Tawaf tv
+http://bonev2.xyz:80/oxygen.id/tawaftv.m3u8
+http://bonetv.site:55555/bone/streaming/946
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",MQ Tv
+https://newbonetv.xyz:443/m3u/usee-mqtv-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/947
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Mta Tv
+https://newbonetv.xyz:443/m3u/usee-mtatv-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/948
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Muhammadiyah Tv
+https://newbonetv.xyz:443/m3u/usee-muhammadiyahtv-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/949
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Rodja Tv
+https://newbonetv.xyz:443/m3u/usee-rodjatv-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/950
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="UseetvAll",Aljazeera
+https://newbonetv.xyz:443/m3u/usee-aljazeera-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/982
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Bali TV
+https://newbonetv.xyz:443/m3u/usee-balitv-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/988
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="UseetvAll",BeIN Sport 1
+https://newbonetv.xyz:443/m3u/usee-bein1-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/810
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="UseetvAll",BeIN Sport 2
+https://newbonetv.xyz:443/m3u/usee-bein2-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/811
+#EXTINF:0 tvg-id="FoxSports.it" group-title="UseetvAll",Fox Sport 1
+https://newbonetv.xyz:443/m3u/usee-foxsport1-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/812
+#EXTINF:0 tvg-id="FOXsport2.nl" group-title="UseetvAll",Fox Sport 2
+https://newbonetv.xyz:443/m3u/usee-foxsport2-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/813
+#EXTINF:0 tvg-id="FoxSports3.ar" group-title="UseetvAll",Fox Sport 3
+https://newbonetv.xyz:443/m3u/usee-foxsport3-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/814
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Champion TV 1
+https://newbonetv.xyz:443/m3u/vidio-champ1-Banyuwangi1122.m3u8
+https://newbonetv.xyz:443/m3u/usee-champions1-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/815
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Champion TV 2
+https://newbonetv.xyz:443/m3u/vidio-champions2-Banyuwangi1122.m3u8
+https://newbonetv.xyz:443/m3u/usee-champions2-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/816
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Champion TV 3
+https://newbonetv.xyz:443/m3u/vidio-champions3-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/817
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Usee sport 1
+https://newbonetv.xyz:443/m3u/usee-useesport-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/820
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Usee Sport 2
+https://newbonetv.xyz:443/m3u/usee-useesports2-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/821
+#EXTINF:0 tvg-id="Golfplus.fr" group-title="UseetvAll",Golf Plus
+https://newbonetv.xyz:443/m3u/usee-golfplus-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/822
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",EGG Network
+https://newbonetv.xyz:443/m3u/usee-egg-Banyuwangi1122.m3u8
